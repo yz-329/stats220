@@ -3,7 +3,7 @@
 
 Hi! This is a markdown file for Project 1 fo STATS220.
 
-## This file will contain:
+### This file will contain:
 * 2 different levels of headers
 * 2 different types of bullet points
   1. ordered
