@@ -11,6 +11,8 @@ Image processing functions are explored and creativly combined together to gener
 * *image_animate()*
 * *image_morph()* etc.
 
+
+
 There is also *learning beyond the coursebook*, for example:
 1. Research in how to change transperancy of an image.
 2. Explore syntax of markdown. [A basic reference guide](https://www.markdownguide.org/basic-syntax/)
