@@ -1,7 +1,7 @@
 
 # Start of STATS220
 
-This github repo will contain all projects done in STATS220 in 2024 Semester 1.
+This Github repo will contain all projects done in STATS220 in 2024 Semester 1.
 
 
 ### Project 1
@@ -18,6 +18,6 @@ There is also *learning beyond the coursebook*, for example:
 2. Explore [syntax for markdown](https://www.markdownguide.org/basic-syntax/).
 
 
-A [reflection webpage](project1_report.html) is also contained in this project using **Rmd**.
+A reflection webpage is also contained in this project using **Rmd**.
 
 ### More projects coming...
